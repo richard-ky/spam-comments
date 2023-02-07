@@ -1,2 +1,2 @@
-# spam-comments
-Spam Comment Classifier using Machine Learning in Python
+# Spam Comment Classifier
+Goal: classify spam comments using machine learning in Python
